@@ -1,0 +1,10 @@
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\bin\Debug\FuzzySetCalc.exe.config
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\bin\Debug\FuzzySetCalc.exe
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\bin\Debug\FuzzySetCalc.pdb
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.csproj.AssemblyReference.cache
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.Form1.resources
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.Properties.Resources.resources
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.csproj.GenerateResource.cache
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.csproj.CoreCompileInputs.cache
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.exe
+F:\VS\repos\Новая папка (7)\FuzzySetCalc\obj\Debug\FuzzySetCalc.pdb
